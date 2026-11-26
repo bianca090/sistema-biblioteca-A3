@@ -96,18 +96,7 @@ Crie um GitHub Project na visualização **Board** com estas colunas, nesta orde
 - `prioridade:media`
 - `prioridade:baixa`
 
-## 7. Guia rápido — configurar no GitHub
-
-1. Acesse https://github.com/bianca090/sistema-biblioteca-A3.
-2. Em **Issues → Labels**, crie as etiquetas de épicos, tipos e prioridades da seção 6.
-3. Em **Issues → Milestones → New milestone**, crie os três marcos descritos na seção 2.
-4. Abra as 16 Issues copiando os textos e critérios de aceite do PDF **Backlog - Plataforma de Biblioteca Digital** e atribua os responsáveis da equipe.
-5. Na aba **Projects**, crie um projeto com visualização **Board** e vincule-o ao repositório.
-6. Adicione todas as Issues ao quadro e configure as colunas: **Backlog, Ready, In Progress, In Review / QA e Done**.
-7. Crie os campos personalizados descritos na seção 5.
-8. Coloque inicialmente todas as Issues em **Backlog**. Mova as Issues da Sprint atual para **Ready** somente depois do refinamento.
-
-## 8. Lista das 16 Issues do Product Backlog
+## 7. Lista das 16 Issues do Product Backlog
 
 ### Milestone 1 — Fundação & MVP Core
 1. Configuração da arquitetura de microsserviços e bancos PostgreSQL — P0, G, Infra / QA.
@@ -131,4 +120,3 @@ Crie um GitHub Project na visualização **Board** com estas colunas, nesta orde
 15. Plano de testes (E2E, Segurança, Desempenho) e validação A3 — P1, M, Infra / QA.
 16. Documentação arquitetural e README para entrega da A3 — P2, P, Infra / QA.
 
-> Os números desta lista indicam a ordem no PDF. O GitHub atribui números próprios às Issues quando forem criadas. Consulte o PDF original para copiar a descrição completa e os critérios de aceite de cada tarefa.
